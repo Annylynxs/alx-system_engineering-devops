@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Action Zebra" | tr 'Ac' 'Ze'
